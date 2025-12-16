@@ -1,6 +1,12 @@
-# Full-Stack E-Commerce
+# Ecommerce App – Learning Project
 
-This is a Next.js full-stack e-commerce starter (sanity + Stripe). It was pushed to this repository by the project owner.
+This is my learning project.
+I am building this to understand full-stack development step by step.
+
+Tech used:
+- Next.js
+- TypeScript
+- Tailwind CSS
 
 Quick start
 
